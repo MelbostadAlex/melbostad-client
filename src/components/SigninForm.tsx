@@ -1,10 +1,4 @@
-import { useState } from 'react';
-
-function SignupForm() {
-  const [email, setEmail] = useState('');
-  const [password, setPassword] = useState('');
-  const [rememberToken, setRememberToken] = useState(false);
-
+function SignupForm() {  
   return (
     <div className='flex flex-col w-[100vw] max-h-[80vh]'>
       <div className='flex flex-row w-[60vw] max-h-[80vh] justify-center self-center'>

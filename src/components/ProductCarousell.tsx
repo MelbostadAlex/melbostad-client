@@ -87,7 +87,7 @@ const ProductCarousell = () => {
             </h1>
 
             <p className='flex flex-row roboto-regular justify-center items-center self-center text-black'>
-              Corporate waste is very bad for the envrionment. I buy computers
+              Corporate waste is very bad for the environment. I buy computers
               from companies and refurb them into new ones.
             </p>
 
@@ -95,10 +95,6 @@ const ProductCarousell = () => {
               Please support our planet and me by buying a refurbed computer
               instead of a new one.
             </p>
-
-            <h1 className='hidden lg:flex md:flex flex-col roboto-black text-[48px] justify-center items-left text-black mt-[4vw]'>
-              Products
-            </h1>
           </div>
 
           <div className='mx-auto grid gap-12 space-y-10 md:space-y-0 sm:gap-36 lg:grid-cols-4 mb-[24vh]'>

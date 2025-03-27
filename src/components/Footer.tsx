@@ -35,7 +35,7 @@ function Footer() {
 
         <div className='flex flex-col justify-center align-center'>
         <div className='py-[1vh]'>
-            <p className='roboto-black'> Inquires </p>
+            <p className='roboto-black'> Contact </p>
           </div>
           <div className='py-[1vh]'>
             <p className="roboto-thin-italic"> Skills </p>
@@ -50,7 +50,7 @@ function Footer() {
 
         <div className='flex flex-col justify-center align-center'>
           <div className='py-[1vh]'>
-            <p className='roboto-black'> Contact </p>
+            <p className='roboto-black'> FAQ </p>
           </div>
           <div className='py-[1vh]'>
             <p className="roboto-thin-italic"> Skills </p>
